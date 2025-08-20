@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+spacy
+nltk
+sentence-transformers
+scikit-learn
+fitz
+docx2txt
